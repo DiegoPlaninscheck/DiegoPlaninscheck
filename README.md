@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi friend
 
 <!--
 **frst157/frst157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
