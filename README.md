@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br/>
 GitHub stats
 <br/>
-<div align="center">
+<div align="start">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoPlaninscheck&show_icons=true&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPlaninscheck&layout=compact&langs_count=10&count_private=true" />
 </div>
