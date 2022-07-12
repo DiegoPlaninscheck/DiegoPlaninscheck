@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <a href="mailto:diego.planichek@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23222?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br/>
 <br/>
+GitHub stats
+<br/>
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoPlaninscheck&show_icons=true&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPlaninscheck&layout=compact&langs_count=10&count_private=true" />
